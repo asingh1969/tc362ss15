@@ -1,0 +1,3 @@
+IP = 45.55.204.232
+Domain1 = singhapo.com
+Domain2 = subdomain.singhapo.com
